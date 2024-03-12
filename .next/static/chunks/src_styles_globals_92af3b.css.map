@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/styles/globals.css"],"names":[],"mappings":"A,8F,+B,gV,kC,+C,8F,wD,wC,4B,gM,oB,8E,kB,c,kE,gN,kC,uH,6B,iC,iC,oE,+D,oD,oE,0B,4D,4B,iB,8C,iB,yB,2E,iE,oC,yB,mF,qC,sB,6jB,qgB,iF,yQ,+/B,y/B,8F,uB,6B,2I,yC,4B,4B,iB,e,iB,iB,oB,4C,2C,0B,yB,yB,yB,yB,mB,uB,sB,wB,sB,qB,mB,iC,qB,mB,oC,gC,+B,mC,qC,kC,c,uB,oB,qB,iB,oB,mB,iB,oB,oB,iB,+B,mB,iB,kB,gB,mB,mB,gD,gB,2D,2B,mC,iC,e,wB,gO,kO,oM,2C,qC,6C,gD,yB,6E,gC,8E,6C,qC,mF,gC,0B,2C,iC,uC,kB,iB,gB,kB,gB,+K,iL,+B,iC,iC,8B,mC,wC,oD,yB,2B,4F,4F,uC,sF,sF,oF,sF,gG,wF,qF,qF,wF,uF,sF,qF,wF,mF,4F,oF,uF,uF,uF,oF,oF,uC,wF,wF,uF,mF,uF,6C,oD,+C,2C,+C,2C,qC,oD,+C,oD,6C,2C,yB,8B,0B,+B,+B,4C,iD,+C,+C,+C,2C,gC,6B,+B,sC,4B,gC,uC,wE,+E,iH,yF,+E,qG,yG,mF,yG,6G,8E,gF,4E,8C,kF,uB,4Q,yD,6B,0C,wE,iL,kiB,yL,gI,6C,4P,oP,qM,gC,iC,+C,oI,+H,mG,6E,yE,qF,uD,8T,oG,uD,8U,oH,uE,0D,0C,uV,6H,qE,qD,4L,0E,0D,8J,2O,2E,4E,4F,yF,2F,wF,8C,2C,kD,mG,8D,iG,wD,iC,gF,oD,qD,oD,oD,oD,oD,qD,oD,oD,qD,iP,mP,sB,+D,yC,mD,2C,mD,iC,sB,8B,+D,+D,+C,uB,gD,oD,2C,8C,iF"}},
+    {"offset": {"line": 1, "column": 23096}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

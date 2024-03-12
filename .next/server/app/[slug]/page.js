@@ -1,0 +1,11 @@
+const CHUNK_PUBLIC_PATH = "server/app/[slug]/page.js";
+const runtime = require("../../chunks/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/[root of the server]__68117a._.js");
+runtime.loadChunk("server/chunks/node_modules_next_05bfa1._.js");
+runtime.loadChunk("server/chunks/node_modules_tailwind-merge_dist_bundle-mjs_mjs_6bc68a._.js");
+runtime.loadChunk("server/chunks/node_modules_graphql_01c0c7._.js");
+runtime.loadChunk("server/chunks/node_modules_tr46_1a859a._.js");
+runtime.loadChunk("server/chunks/node_modules_mime-db_03ce87._.js");
+runtime.loadChunk("server/chunks/node_modules_35674f._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/[slug]/page/actions.js (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js/(COMPONENT_0)/[project]/src/app/[slug]/page.tsx [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_1)/[project]/src/app/[slug]/loading.tsx [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_2)/[project]/src/app/error.tsx [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_3)/[project]/src/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_4)/[project]/src/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)/(METADATA_5)/[project]/src/app/icon.svg.mjs/(IMAGE)/[project]/src/app/icon.svg [app-rsc] (static) (structured image object, ecmascript) (ecmascript) {facade}", CHUNK_PUBLIC_PATH).exports;

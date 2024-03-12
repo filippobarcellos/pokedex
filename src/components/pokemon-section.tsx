@@ -16,7 +16,7 @@ export function PokemonSection() {
 
   return (
     <section
-      className="container m-auto max-w-screen-md motion-safe:animate-fade-up motion-safe:animate-delay-700 lg:py-12"
+      className="container max-w-screen-md motion-safe:animate-fade-up motion-safe:animate-delay-700 lg:py-12"
       id="list"
     >
       <PokemonSearch query={query} onChange={onChangeQuery} />
